@@ -5,7 +5,7 @@
 J'aime transformer des besoins concrets et des données complexes en applications utiles : maintenance industrielle, découverte d'événements et intelligence artificielle.  
 Je recherche un **stage PFE en IA, machine learning, deep learning ou DevOps**.
 
-[Portfolio](https://ibaararenfatima-source.github.io/) · [LinkedIn](https://www.linkedin.com/in/fatima-ibaararen-ensias-gl/) · [E-mail](mailto:IBAARAREN.fatima@gmail.com)
+[Portfolio](https://ibaararenfatima-source.github.io/) · [LinkedIn](https://www.linkedin.com/in/fatima-ibaararen-ensias-gl/) · Gmail : [IBAARAREN.fatima@gmail.com](mailto:IBAARAREN.fatima@gmail.com)
 
 ## Mes domaines et outils
 
@@ -43,7 +43,3 @@ Comparaison de modèles CNN et récurrents sur la base de signaux ECG **PTB-XL**
 
 **Certification :** AWS Academy Graduate — Cloud Foundations (janvier 2026)  
 **Langues :** arabe et amazigh (langues maternelles) · français (professionnel) · anglais (intermédiaire)
-
----
-
-Les dépôts réalisés en équipe conservent les crédits et l'historique des auteurs d'origine.
