@@ -17,7 +17,7 @@ Je recherche un **stage PFE en IA, machine learning, deep learning ou DevOps**.
 
 ## Projets sélectionnés
 
-### [SmartMaint](https://github.com/ayanasser53/gmao) · Maintenance industrielle
+### [SmartMaint](https://github.com/IBAARARENfatima-source/gmao) · Maintenance industrielle
 
 Une GMAO développée en équipe pendant mon stage chez **SNOP, Groupe FSD**. J'ai travaillé sur l'API Spring Boot, l'interface React/TypeScript, la gestion des accès avec JWT, la conteneurisation Docker, l'infrastructure Azure avec Terraform et le pipeline CI/CD GitHub Actions. Le projet intègre aussi un assistant RAG fondé sur l'historique des pannes.
 
@@ -29,7 +29,7 @@ Une plateforme de découverte d'événements géolocalisés avec une interface R
 
 Comparaison de modèles CNN et récurrents sur la base de signaux ECG **PTB-XL**, avec des métriques calculées sur le jeu de test et une interface de prédiction Streamlit. Mon [portfolio](https://ibaararenfatima-source.github.io/#projets) présente un graphique d'évaluation extrait du notebook.
 
-**Autres projets en équipe :** [FoodPlanner](https://github.com/YasserAEM/FoodPlanner) (planification de repas sur Android) · [Data-Driven Decision Making](https://github.com/ayanasser53/Data-Driven) (analyse e-commerce) · [Business Performance Dashboard](https://github.com/soumiaaaen/business-performance-dashboard) (Power BI).
+**Autres projets en équipe :** [FoodPlanner](https://github.com/IBAARARENfatima-source/FoodPlanner) (planification de repas sur Android) · [Data-Driven Decision Making](https://github.com/IBAARARENfatima-source/Data-Driven) (analyse e-commerce) · [Business Performance Dashboard](https://github.com/IBAARARENfatima-source/business-performance-dashboard) (Power BI).
 
 ## Expérience professionnelle
 
