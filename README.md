@@ -21,17 +21,17 @@ Je recherche un **stage PFE en IA, machine learning, deep learning ou DevOps**.
 
 Une GMAO développée en équipe pendant mon stage chez **SNOP, Groupe FSD**. J'ai travaillé sur l'API Spring Boot, l'interface React/TypeScript, la gestion des accès avec JWT, la conteneurisation Docker, l'infrastructure Azure avec Terraform et le pipeline CI/CD GitHub Actions. Le projet intègre aussi un assistant RAG fondé sur l'historique des pannes.
 
-### [CityPulse](https://github.com/IBAARARENfatima-source/development-platform-genz_team) · Événements locaux
+### CityPulse · Événements locaux
 
-Une plateforme développée en équipe pour découvrir des événements géolocalisés. Elle associe une interface React et une carte interactive à des microservices Spring Boot, avec PostgreSQL, Docker et Kubernetes. **Le dépôt GitHub est privé** et n'est accessible qu'aux personnes autorisées.
+Une plateforme développée en équipe pour découvrir des événements et lieux proches sur une carte, publier du contenu et interagir avec la communauté. Elle réunit une interface React, cinq microservices Spring Boot, PostgreSQL et un déploiement conteneurisé avec Docker, Kubernetes et Terraform.
 
 ### [Classification de signaux ECG](https://github.com/IBAARARENfatima-source/classification-ecg-ptb-xl) · Deep learning
 
-Un projet réalisé en équipe sur la base de signaux ECG **PTB-XL** : comparaison de modèles CNN et récurrents, évaluation sur le jeu de test et interface de prédiction Streamlit. Mon [portfolio](https://ibaararenfatima-source.github.io/#projets) présente un graphique d'évaluation extrait du notebook.
+Projet de classification d'ECG à 12 dérivations en cinq catégories diagnostiques à partir de **PTB-XL**. Le notebook filtre et normalise les signaux, puis compare CNN 1D, CNN optimisé, BiLSTM, CNN-BiLSTM et ResNet1D sur un jeu de test séparé. Il présente les scores d'accuracy et de F1, les courbes d'apprentissage et les matrices de confusion.
 
 ### [Gestion des Notes](https://github.com/IBAARARENfatima-source/Gestion-Notes) · Application web universitaire
 
-Une application réalisée en équipe pour gérer les classes, les matières et la saisie des notes. Elle propose des espaces administrateur, enseignant et étudiant, avec une API Spring Boot, une interface Next.js et une base PostgreSQL. Le dépôt est un [fork du projet de l'équipe](https://github.com/ayanasser53/Gestion-Notes).
+Application réalisée en équipe avec Scrum pour organiser classes, groupes, matières et affectations. Les enseignants saisissent les notes de TP, projet et contrôles ; les moyennes sont calculées selon les coefficients. Un espace étudiant présente le bulletin avec des données de démonstration. Stack : Spring Boot, Next.js et PostgreSQL. Le dépôt est un [fork du projet de l'équipe](https://github.com/ayanasser53/Gestion-Notes).
 
 ### [FoodPlanner](https://github.com/IBAARARENfatima-source/FoodPlanner) · Planification de repas
 
