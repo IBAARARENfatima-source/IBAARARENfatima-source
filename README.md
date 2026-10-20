@@ -31,7 +31,7 @@ Projet de classification d'ECG à 12 dérivations en cinq catégories diagnostiq
 
 ### [Gestion des Notes](https://github.com/IBAARARENfatima-source/Gestion-Notes) · Application web universitaire
 
-Application réalisée en équipe avec Scrum pour organiser classes, groupes, matières et affectations. Les enseignants saisissent les notes de TP, projet et contrôles ; les moyennes sont calculées selon les coefficients. Un espace étudiant présente le bulletin avec des données de démonstration. Stack : Spring Boot, Next.js et PostgreSQL. Le dépôt est un [fork du projet de l'équipe](https://github.com/ayanasser53/Gestion-Notes).
+Projet développé en équipe selon une démarche agile Scrum : fonctionnalités priorisées, tâches réparties entre les membres et progression par itérations. L'application organise les classes, groupes, matières et affectations. Les enseignants saisissent les notes de TP, projet et contrôles ; les moyennes sont calculées selon les coefficients. L'espace étudiant présente un bulletin avec des données de démonstration. Stack : Spring Boot, Next.js et PostgreSQL.
 
 ### [FoodPlanner](https://github.com/IBAARARENfatima-source/FoodPlanner) · Planification de repas
 
