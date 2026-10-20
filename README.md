@@ -25,7 +25,7 @@ Une GMAO développée en équipe pendant mon stage chez **SNOP, Groupe FSD**. J'
 
 Une plateforme développée en équipe pour découvrir des événements géolocalisés. Elle associe une interface React et une carte interactive à des microservices Spring Boot, avec PostgreSQL, Docker et Kubernetes. **Le dépôt GitHub est privé** et n'est accessible qu'aux personnes autorisées.
 
-### [Classification de signaux ECG](https://ibaararenfatima-source.github.io/#projets) · Deep learning
+### [Classification de signaux ECG](https://github.com/IBAARARENfatima-source/classification-ecg-ptb-xl) · Deep learning
 
 Un projet réalisé en équipe sur la base de signaux ECG **PTB-XL** : comparaison de modèles CNN et récurrents, évaluation sur le jeu de test et interface de prédiction Streamlit. Mon [portfolio](https://ibaararenfatima-source.github.io/#projets) présente un graphique d'évaluation extrait du notebook.
 
