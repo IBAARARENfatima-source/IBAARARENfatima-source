@@ -29,6 +29,10 @@ Une plateforme développée en équipe pour découvrir des événements géoloca
 
 Un projet réalisé en équipe sur la base de signaux ECG **PTB-XL** : comparaison de modèles CNN et récurrents, évaluation sur le jeu de test et interface de prédiction Streamlit. Mon [portfolio](https://ibaararenfatima-source.github.io/#projets) présente un graphique d'évaluation extrait du notebook.
 
+### [Gestion des Notes](https://github.com/IBAARARENfatima-source/Gestion-Notes) · Application web universitaire
+
+Une application réalisée en équipe pour gérer les classes, les matières et la saisie des notes. Elle propose des espaces administrateur, enseignant et étudiant, avec une API Spring Boot, une interface Next.js et une base PostgreSQL. Le dépôt est un [fork du projet de l'équipe](https://github.com/ayanasser53/Gestion-Notes).
+
 ### [FoodPlanner](https://github.com/IBAARARENfatima-source/FoodPlanner) · Planification de repas
 
 Une application Android réalisée en équipe pour composer des menus selon les préférences et restrictions alimentaires, puis générer automatiquement les listes de courses correspondantes.
