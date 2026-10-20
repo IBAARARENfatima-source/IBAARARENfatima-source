@@ -21,7 +21,7 @@ Je recherche un **stage PFE en IA, machine learning, deep learning ou DevOps**.
 
 Une GMAO développée en équipe pendant mon stage chez **SNOP, Groupe FSD**. J'ai travaillé sur l'API Spring Boot, l'interface React/TypeScript, la gestion des accès avec JWT, la conteneurisation Docker, l'infrastructure Azure avec Terraform et le pipeline CI/CD GitHub Actions. Le projet intègre aussi un assistant RAG fondé sur l'historique des pannes.
 
-### [CityPulse](https://ibaararenfatima-source.github.io/#projets) · Événements locaux
+### [CityPulse](https://github.com/IBAARARENfatima-source/development-platform-genz_team) · Événements locaux
 
 Une plateforme développée en équipe pour découvrir des événements et lieux proches sur une carte, publier du contenu et interagir avec la communauté. Elle réunit une interface React, cinq microservices Spring Boot, PostgreSQL et un déploiement conteneurisé avec Docker, Kubernetes et Terraform.
 
