@@ -21,15 +21,25 @@ Je recherche un **stage PFE en IA, machine learning, deep learning ou DevOps**.
 
 Une GMAO développée en équipe pendant mon stage chez **SNOP, Groupe FSD**. J'ai travaillé sur l'API Spring Boot, l'interface React/TypeScript, la gestion des accès avec JWT, la conteneurisation Docker, l'infrastructure Azure avec Terraform et le pipeline CI/CD GitHub Actions. Le projet intègre aussi un assistant RAG fondé sur l'historique des pannes.
 
-### [CityPulse](https://ibaararenfatima-source.github.io/#projets) · Événements locaux
+### [CityPulse](https://github.com/IBAARARENfatima-source/development-platform-genz_team) · Événements locaux
 
-Une plateforme de découverte d'événements géolocalisés avec une interface React, une carte interactive et des microservices Spring Boot. Le projet utilise PostgreSQL, Docker et Kubernetes.
+Une plateforme développée en équipe pour découvrir des événements géolocalisés. Elle associe une interface React et une carte interactive à des microservices Spring Boot, avec PostgreSQL, Docker et Kubernetes. **Le dépôt GitHub est privé** et n'est accessible qu'aux personnes autorisées.
 
 ### [Classification de signaux ECG](https://ibaararenfatima-source.github.io/#projets) · Deep learning
 
-Comparaison de modèles CNN et récurrents sur la base de signaux ECG **PTB-XL**, avec des métriques calculées sur le jeu de test et une interface de prédiction Streamlit. Mon [portfolio](https://ibaararenfatima-source.github.io/#projets) présente un graphique d'évaluation extrait du notebook.
+Un projet réalisé en équipe sur la base de signaux ECG **PTB-XL** : comparaison de modèles CNN et récurrents, évaluation sur le jeu de test et interface de prédiction Streamlit. Mon [portfolio](https://ibaararenfatima-source.github.io/#projets) présente un graphique d'évaluation extrait du notebook.
 
-**Autres projets en équipe :** [FoodPlanner](https://github.com/IBAARARENfatima-source/FoodPlanner) (planification de repas sur Android) · [Data-Driven Decision Making](https://github.com/IBAARARENfatima-source/Data-Driven) (analyse e-commerce) · [Business Performance Dashboard](https://github.com/IBAARARENfatima-source/business-performance-dashboard) (Power BI).
+### [FoodPlanner](https://github.com/IBAARARENfatima-source/FoodPlanner) · Planification de repas
+
+Une application Android réalisée en équipe pour composer des menus selon les préférences et restrictions alimentaires, puis générer automatiquement les listes de courses correspondantes.
+
+### [Data-Driven Decision Making](https://github.com/IBAARARENfatima-source/Data-Driven) · Analyse e-commerce
+
+Un projet mené en équipe autour de données de transactions et de profils clients : indicateurs de vente, segmentation, modèles de prédiction et tableau de bord Streamlit pour éclairer les décisions marketing.
+
+### [Business Performance Dashboard](https://github.com/IBAARARENfatima-source/business-performance-dashboard) · Power BI
+
+Un tableau de bord réalisé en équipe pour suivre les ventes, la rentabilité et les tendances par produit et par région. Les visualisations et indicateurs Power BI facilitent l'analyse des performances commerciales.
 
 ## Expérience professionnelle
 
