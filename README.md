@@ -19,7 +19,7 @@ Je recherche un **stage PFE en IA, machine learning, deep learning ou DevOps**.
 
 ### [SmartMaint](https://github.com/IBAARARENfatima-source/gmao) · Maintenance industrielle
 
-Une GMAO développée en équipe pendant mon stage chez **SNOP, Groupe FSD**. J'ai travaillé sur l'API Spring Boot, l'interface React/TypeScript, la gestion des accès avec JWT, la conteneurisation Docker, l'infrastructure Azure avec Terraform et le pipeline CI/CD GitHub Actions. Le projet intègre aussi un assistant RAG fondé sur l'historique des pannes.
+Une GMAO développée en équipe pendant mon stage chez **SNOP, Groupe FSD**. J'ai travaillé sur l'API Spring Boot, l'interface React/TypeScript, la gestion des accès avec JWT, la conteneurisation Docker, l'infrastructure Azure avec Terraform et le pipeline CI/CD GitHub Actions. Le projet comprend également un **assistant IA RAG** qui exploite l'historique des pannes pour proposer aux techniciens des pistes de résolution.
 
 ### [CityPulse](https://github.com/IBAARARENfatima-source/development-platform-genz_team) · Événements locaux
 
